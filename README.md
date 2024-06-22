@@ -1,5 +1,7 @@
 # Lodz-Real-Estate-Pricing-Evaluation
-This repository evaluates the average selling price of properties in Lodz, Poland, offering a detailed breakdown of price ranges. It includes tools to assess prices at specific addresses, providing insights into the primary real estate market. This aids in informed decision-making for buyers, sellers, and investors.
+This repository contains an example of an Automated Pricing Analysis generated in less than 45 seconds by our tool, utilizing Python, JSON, Relevance, Prompt Engineering, LLM GPT-4, and various API integrations. Our Primary Real Estate Market Pricing Evaluation Tool evaluates the average selling price of properties in Lodz (Poland), offering a detailed breakdown of price ranges. It includes features to assess prices at specific addresses, providing valuable insights into the primary real estate market. This aids in informed decision-making for buyers, sellers, and investors. If you are interested in accessing the tool, please don't hesitate to contact us.
+
+Below, you will find the output from the test run conducted by our development team.
 
 
 Input: Ulica Strzelców Kaniowskich 5, Łódź, Standard Premium
